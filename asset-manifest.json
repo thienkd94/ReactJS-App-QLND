@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ducthien94/ReactJS-App-QLND/static/css/main.7b646d04.chunk.css",
+    "main.js": "/ducthien94/ReactJS-App-QLND/static/js/main.ffc4f2d7.chunk.js",
+    "main.js.map": "/ducthien94/ReactJS-App-QLND/static/js/main.ffc4f2d7.chunk.js.map",
+    "runtime-main.js": "/ducthien94/ReactJS-App-QLND/static/js/runtime-main.0fefeaef.js",
+    "runtime-main.js.map": "/ducthien94/ReactJS-App-QLND/static/js/runtime-main.0fefeaef.js.map",
+    "static/css/2.de424728.chunk.css": "/ducthien94/ReactJS-App-QLND/static/css/2.de424728.chunk.css",
+    "static/js/2.cfba19d7.chunk.js": "/ducthien94/ReactJS-App-QLND/static/js/2.cfba19d7.chunk.js",
+    "static/js/2.cfba19d7.chunk.js.map": "/ducthien94/ReactJS-App-QLND/static/js/2.cfba19d7.chunk.js.map",
+    "index.html": "/ducthien94/ReactJS-App-QLND/index.html",
+    "precache-manifest.55c464524746adca885fc445320b918b.js": "/ducthien94/ReactJS-App-QLND/precache-manifest.55c464524746adca885fc445320b918b.js",
+    "service-worker.js": "/ducthien94/ReactJS-App-QLND/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ducthien94/ReactJS-App-QLND/static/css/2.de424728.chunk.css.map",
+    "static/css/main.7b646d04.chunk.css.map": "/ducthien94/ReactJS-App-QLND/static/css/main.7b646d04.chunk.css.map",
+    "static/js/2.cfba19d7.chunk.js.LICENSE.txt": "/ducthien94/ReactJS-App-QLND/static/js/2.cfba19d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fefeaef.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.cfba19d7.chunk.js",
+    "static/css/main.7b646d04.chunk.css",
+    "static/js/main.ffc4f2d7.chunk.js"
+  ]
+}
