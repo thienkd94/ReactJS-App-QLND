@@ -1,0 +1,1 @@
+export const API_URL = 'http://fake-rest-api-nodejs-2.herokuapp.com'
