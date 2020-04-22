@@ -9,7 +9,7 @@ const Pagination = ({ usersPerPage, currentPage, totalUsers, paginate }) => {
   }
 
   return (
-    <div className="table-footer">
+    <div className="table-footer mt-3">
       <div>
             <Link to="/user/add">
               <button className="btn">
